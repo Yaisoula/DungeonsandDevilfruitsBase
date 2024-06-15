@@ -1,0 +1,57 @@
+{
+  "id": "dungeons-and-devilfruits-converted",
+  "title": "Dungeons & Devilfruits Base Module",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "dnd5e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "midi-srd",
+        "type": "module",
+        "compatibility": {}
+      },
+      {
+        "id": "monks-enhanced-journal",
+        "type": "module"
+      }
+    ],
+    "recommends": [
+      {
+        "id": "yaisoulas-book-of-spells",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "A module to run One Piece in D&amp;D5e!\n\nThe Dungeons and Devilfruits module was created by OneWorldHD and converted by Yaisoula.",
+  "authors": [
+    {
+      "name": "Yaisoula",
+      "discord": "bazzleberry"
+    }
+  ],
+  "url": "https://www.patreon.com/yaisoula",
+  "packs": [
+    {
+      "name": "dungeons-and-devilfruits-extended",
+      "label": "Dungeons & Devilfruits Base Module",
+      "path": "packs/dungeons-and-devilfruits-extended",
+      "type": "Adventure",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}

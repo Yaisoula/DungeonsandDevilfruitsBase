@@ -1,0 +1,5 @@
+2024/03/24-20:28:57.356 59a4 Delete type=3 #1
+2024/03/24-20:38:51.508 88f0 Level-0 table #5: started
+2024/03/24-20:38:51.635 88f0 Level-0 table #5: 809420 bytes OK
+2024/03/24-20:38:51.696 88f0 Delete type=0 #3
+2024/03/24-20:38:51.697 88f0 Manual compaction at level-0 from '!adventures!4dBsYupqSKBl6FU2' @ 72057594037927935 : 1 .. '!adventures!4dBsYupqSKBl6FU2' @ 0 : 0; will stop at (end)
