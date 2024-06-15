@@ -41,8 +41,8 @@
         }
     ],
     "url": "https://www.patreon.com/yaisoula",
-    "manifest": "https://github.com/Yaisoula/DungeonsandDevilfruitsBase/releases/download/1.0.1/module.json",
-    "download": "https://github.com/Yaisoula/DungeonsandDevilfruitsBase/releases/download/1.0.1/ddevilfruits.zip",
+    "manifest": "https://github.com/Yaisoula/DungeonsandDevilfruitsBase/releases/download/latest/module.json",
+    "download": "https://github.com/Yaisoula/DungeonsandDevilfruitsBase/releases/download/latest/ddevilfruits.zip",
     "packs": [
         {
             "name": "dungeons-and-devilfruits-extended",
