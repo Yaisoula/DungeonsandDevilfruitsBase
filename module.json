@@ -1,7 +1,7 @@
 {
     "id": "dungeons-and-devilfruits-converted",
     "title": "Dungeons & Devilfruits Base Module",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "compatibility": {
         "minimum": "11",
         "verified": "11"
