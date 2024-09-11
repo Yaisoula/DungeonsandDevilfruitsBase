@@ -1,3 +1,56 @@
-2024/08/25-00:37:30.409 68f0 Recovering log #794
-2024/08/25-00:37:30.500 68f0 Delete type=0 #794
-2024/08/25-00:37:30.500 68f0 Delete type=3 #793
+2024/09/10-19:41:12.307 c9a8 Recovering log #821
+2024/09/10-19:41:12.390 c9a8 Delete type=0 #821
+2024/09/10-19:41:12.391 c9a8 Delete type=3 #820
+2024/09/10-19:54:25.334 d734 Level-0 table #825: started
+2024/09/10-19:54:25.479 d734 Level-0 table #825: 964174 bytes OK
+2024/09/10-19:54:25.524 d734 Delete type=0 #823
+2024/09/10-19:58:10.153 d734 Compacting 1@1 + 2@2 files
+2024/09/10-19:58:10.485 d734 Generated table #826@1: 11 keys, 3867071 bytes
+2024/09/10-19:58:10.539 d734 Generated table #827@1: 2 keys, 175713 bytes
+2024/09/10-19:58:10.539 d734 Compacted 1@1 + 2@2 files => 4042784 bytes
+2024/09/10-19:58:10.566 d734 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/09/10-19:58:10.566 d734 Delete type=2 #818
+2024/09/10-19:58:10.566 d734 Delete type=2 #819
+2024/09/10-19:58:10.567 d734 Delete type=2 #825
+2024/09/10-20:01:19.392 d734 Level-0 table #829: started
+2024/09/10-20:01:19.468 d734 Level-0 table #829: 1332399 bytes OK
+2024/09/10-20:01:19.484 d734 Delete type=0 #824
+2024/09/10-20:17:42.575 d734 Compacting 1@1 + 1@2 files
+2024/09/10-20:17:42.872 d734 Generated table #830@1: 11 keys, 3634912 bytes
+2024/09/10-20:17:42.873 d734 Compacted 1@1 + 1@2 files => 3634912 bytes
+2024/09/10-20:17:42.896 d734 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/09/10-20:17:42.896 d734 Delete type=2 #826
+2024/09/10-20:17:42.896 d734 Delete type=2 #829
+2024/09/10-20:17:42.970 d734 Level-0 table #832: started
+2024/09/10-20:17:43.136 d734 Level-0 table #832: 1328930 bytes OK
+2024/09/10-20:17:43.154 d734 Delete type=0 #828
+2024/09/10-20:23:34.247 d734 Compacting 1@1 + 1@2 files
+2024/09/10-20:23:34.544 d734 Generated table #833@1: 11 keys, 3667916 bytes
+2024/09/10-20:23:34.545 d734 Compacted 1@1 + 1@2 files => 3667916 bytes
+2024/09/10-20:23:34.619 d734 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/09/10-20:23:34.619 d734 Delete type=2 #830
+2024/09/10-20:23:34.619 d734 Delete type=2 #832
+2024/09/10-20:23:34.620 d734 Level-0 table #835: started
+2024/09/10-20:23:34.692 d734 Level-0 table #835: 1375063 bytes OK
+2024/09/10-20:23:34.709 d734 Delete type=0 #831
+2024/09/10-20:25:57.560 d734 Compacting 1@1 + 2@2 files
+2024/09/10-20:25:57.890 d734 Generated table #836@1: 11 keys, 3668413 bytes
+2024/09/10-20:25:57.940 d734 Generated table #837@1: 2 keys, 175716 bytes
+2024/09/10-20:25:57.940 d734 Compacted 1@1 + 2@2 files => 3844129 bytes
+2024/09/10-20:25:57.963 d734 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/09/10-20:25:57.963 d734 Delete type=2 #827
+2024/09/10-20:25:57.964 d734 Delete type=2 #833
+2024/09/10-20:25:57.964 d734 Delete type=2 #835
+2024/09/10-20:32:23.665 d734 Level-0 table #839: started
+2024/09/10-20:32:23.772 d734 Level-0 table #839: 596628 bytes OK
+2024/09/10-20:32:23.791 d734 Delete type=0 #834
+2024/09/10-20:32:23.835 d734 Manual compaction at level-0 from '!adventures!2GzWQDk00UhcZL84' @ 72057594037927935 : 1 .. '!adventures!toVmfshc7UTKcYG5' @ 0 : 0; will stop at (end)
+2024/09/10-20:32:23.835 d734 Manual compaction at level-1 from '!adventures!2GzWQDk00UhcZL84' @ 72057594037927935 : 1 .. '!adventures!toVmfshc7UTKcYG5' @ 0 : 0; will stop at '!adventures!rJHrkpWHFvG725ra' @ 85 : 1
+2024/09/10-20:32:23.835 d734 Compacting 1@1 + 2@2 files
+2024/09/10-20:32:24.155 d734 Generated table #840@1: 12 keys, 1971622 bytes
+2024/09/10-20:32:24.156 d734 Compacted 1@1 + 2@2 files => 1971622 bytes
+2024/09/10-20:32:24.190 d734 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/10-20:32:24.190 d734 Delete type=2 #836
+2024/09/10-20:32:24.191 d734 Delete type=2 #837
+2024/09/10-20:32:24.191 d734 Delete type=2 #839
+2024/09/10-20:32:24.191 d734 Manual compaction at level-1 from '!adventures!rJHrkpWHFvG725ra' @ 85 : 1 .. '!adventures!toVmfshc7UTKcYG5' @ 0 : 0; will stop at (end)
