@@ -1,7 +1,7 @@
 {
     "id": "dungeons-and-devilfruits-converted",
     "title": "Dungeons & Devilfruits Base Module",
-    "version": "1.2.0",
+    "version": "2.0.0",
     "compatibility": {
         "minimum": "11",
         "verified": "11"
@@ -21,11 +21,6 @@
             }
         ],
         "recommends": [
-            {
-                "id": "midi-srd",
-                "type": "module",
-                "compatibility": {}
-            },
             {
                 "id": "yaisoulas-book-of-spells",
                 "type": "module",
