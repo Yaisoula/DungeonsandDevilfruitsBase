@@ -1,3 +1,40 @@
-2025/03/14-23:03:52.625 5188 Recovering log #1126
-2025/03/14-23:03:52.722 5188 Delete type=0 #1126
-2025/03/14-23:03:52.722 5188 Delete type=3 #1125
+2025/03/23-18:58:07.124 b7e8 Recovering log #1232
+2025/03/23-18:58:07.223 b7e8 Delete type=0 #1232
+2025/03/23-18:58:07.223 b7e8 Delete type=3 #1166
+2025/03/23-18:58:07.223 b7e8 Delete type=3 #1229
+2025/03/23-19:27:31.372 1efc Compacting 2@0 + 0@1 files
+2025/03/23-19:27:31.430 1efc Generated table #1235@0: 1 keys, 349173 bytes
+2025/03/23-19:27:31.430 1efc Compacted 2@0 + 0@1 files => 349173 bytes
+2025/03/23-19:27:31.469 1efc compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/03/23-19:27:31.470 1efc Delete type=2 #1164
+2025/03/23-19:27:31.470 1efc Delete type=2 #1167
+2025/03/23-19:27:34.828 1efc Level-0 table #1237: started
+2025/03/23-19:27:35.010 1efc Level-0 table #1237: 1503837 bytes OK
+2025/03/23-19:27:35.039 1efc Delete type=0 #1234
+2025/03/23-19:27:41.434 1efc Expanding@1 1+1 (1503837+2116719 bytes) to 2+1 (1853010+2116719 bytes)
+2025/03/23-19:27:41.434 1efc Compacting 2@1 + 1@2 files
+2025/03/23-19:27:41.719 1efc Generated table #1238@1: 11 keys, 2107186 bytes
+2025/03/23-19:27:41.743 1efc Generated table #1239@1: 1 keys, 63286 bytes
+2025/03/23-19:27:41.743 1efc Compacted 2@1 + 1@2 files => 2170472 bytes
+2025/03/23-19:27:41.762 1efc compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/03/23-19:27:41.763 1efc Delete type=2 #1136
+2025/03/23-19:27:41.763 1efc Delete type=2 #1235
+2025/03/23-19:27:41.763 1efc Delete type=2 #1237
+2025/03/23-20:51:30.228 1efc Level-0 table #1241: started
+2025/03/23-20:51:30.398 1efc Level-0 table #1241: 1069226 bytes OK
+2025/03/23-20:51:30.430 1efc Delete type=0 #1236
+2025/03/23-20:53:08.758 1efc Compacting 1@1 + 1@2 files
+2025/03/23-20:53:09.063 1efc Generated table #1242@1: 11 keys, 2129009 bytes
+2025/03/23-20:53:09.064 1efc Compacted 1@1 + 1@2 files => 2129009 bytes
+2025/03/23-20:53:09.089 1efc compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/03/23-20:53:09.089 1efc Delete type=2 #1238
+2025/03/23-20:53:09.089 1efc Delete type=2 #1241
+2025/03/23-20:56:20.058 1efc Level-0 table #1244: started
+2025/03/23-20:56:20.220 1efc Level-0 table #1244: 953411 bytes OK
+2025/03/23-20:56:20.255 1efc Delete type=0 #1240
+2025/03/23-20:57:44.064 1efc Compacting 1@1 + 1@2 files
+2025/03/23-20:57:44.335 1efc Generated table #1245@1: 11 keys, 2120634 bytes
+2025/03/23-20:57:44.335 1efc Compacted 1@1 + 1@2 files => 2120634 bytes
+2025/03/23-20:57:44.364 1efc compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/03/23-20:57:44.364 1efc Delete type=2 #1242
+2025/03/23-20:57:44.365 1efc Delete type=2 #1244
