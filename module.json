@@ -15,11 +15,6 @@
             }
         ],
         "requires": [
-            {
-                "id": "monks-enhanced-journal",
-                "type": "module",
-                "compatibility": {}
-            }
         ],
         "recommends": [
             {
