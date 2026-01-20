@@ -1,10 +1,10 @@
 {
     "id": "dungeons-and-devilfruits-converted",
     "title": "Dungeons & Devilfruits Base Module",
-    "version": "3.7.0",
+    "version": "3.8.0",
     "compatibility": {
         "minimum": "12",
-        "verified": "12"
+        "verified": "13"
     },
     "relationships": {
         "systems": [
